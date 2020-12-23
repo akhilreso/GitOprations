@@ -1,0 +1,95 @@
+<suite name=suite1>
+
+<test name=""test one">
+<parameters name="browser" valu="firefoex"/>
+<parameters name="baseurl" valu="www.google.com"/>
+<classes>
+<class name="com.pacakage1.googleTest"/>
+</classes>
+
+<test name=""test one">
+<parameters name="browser" valu="chrom"/>
+<parameters name="baseurl" valu="www.google.com"/>
+<classes>
+<class name="com.pacakage1.googleTest"Board of High School and Intermediate Education Uttar Pradesh
+/></classes>
+
+<test name=""test one">
+<parameters name="browser" valu="edge"/>
+<parameters name="baseurl" valu="www.google.com"/>
+<classes>
+<class name="com.pacakage1.googleTest"
+/></classes>
+
+</suit>
+
+//make atest ng class
+public class GoogleTest
+{
+@BeforeMethod
+@Parameters({"browser" "baseurl"})
+
+public void precondation(String browserName , String url)
+{ sopln(browserName +""+url);
+}
+
+}
+unit regration testin
+reganial regration teting 
+full regratin 
+acceptance tesing 
+alpha -- testing team //produck bhej rahe hain von sahi hai ya nahi //smoke besic and critical ///
+beeta -- ebd user and the send us bug file doccument give rating us of application ::
+///
+
+Exloretry Testing -- explore the produck and under stand the produck based on understanding
+requerment nahi ya understandable 
+rason reqremnt nahi 
+understandabvlble 
+
+time hi nahi go thru karne hai
+
+/
+adoc tesing - testing the aplicatin rendemly  // gamming app 100% 
+when - jb after functin and intrigation hamare paas time bachta hai ,, u
+use casse - clien deta hai kaise vo app use karega 
+
+//1.gorrila  1 hi page ko nbaar 
+2.monky  -- koodte hain idhar udhar 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
